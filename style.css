@@ -1,0 +1,38 @@
+body{
+    font-family: "Playfair Display", serif;
+}
+
+#presentacion{
+    height: 90vh;
+    /* background-image: url(assets/fondo5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; */
+}
+
+
+
+.proyecto{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+#proyecto-1{
+    background-image: url('googleClon.png');
+ 
+}
+
+#proyecto-2{
+    background-image: url('assets/barberA.png');
+}
+
+.text-shadow-1 {
+    text-shadow: 1px -1px 8px rgba(0, 0, 0, 1);
+}
+
+.playfair-display {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+  }
